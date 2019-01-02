@@ -1,11 +1,11 @@
 {
   "name": "nobita-controllers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-controllers",
   "main": "lib/nobita-controllers.js",
   "dependencies": {
     "lodash": "4.17.10",
-    "nobita-readdir": "0.0.1"
+    "nobita-readdir": "0.0.2"
   },
   "devDependencies": {
     "koa": "^2.5.0",
