@@ -1,6 +1,6 @@
 {
   "name": "nobita-controllers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nobita-controllers",
   "main": "lib/nobita-controllers.js",
   "dependencies": {
